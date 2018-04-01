@@ -40,7 +40,7 @@ REQUEST:
 curl http://localhost:9090/api/pods/kube-system
 
 RESPONSE:
-![alt text](https://raw.githubusercontent.com/charlesa101/k8sApi/master/doc/pods.png)
+![alt text](https://github.com/charlesa101/simplek8sGoClient/blob/master/docs/pods.png)
 
 2. Get All pod count in the cluster ->
 
@@ -58,7 +58,7 @@ REQUEST:
 curl http://localhost:9090/api/nodes
 
 RESPONSE:
-![alt text](https://raw.githubusercontent.com/charlesa101/k8sApi/master/doc/nodes.png)
+![alt text](https://github.com/charlesa101/simplek8sGoClient/blob/master/docs/nodes.png)
 
 4. Get All node count in the cluster ->
 
